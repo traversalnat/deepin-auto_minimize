@@ -1,0 +1,10 @@
+[Desktop Entry]
+Comment=window_control
+Exec=/home/jackzhang/.config/autostart/auto_minimize.sh
+Hidden=false
+Name=window_control
+NoDisplay=true
+Terminal=false
+Type=Application
+X-Deepin-Vendor=user-custom
+X-GNOME-Autostart-enabled=true
