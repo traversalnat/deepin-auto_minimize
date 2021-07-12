@@ -1,6 +1,6 @@
 [Desktop Entry]
 Comment=window_control
-Exec=/home/jackzhang/.config/autostart/auto_minimize.sh
+Exec=/PATH/TO/.config/autostart/auto_minimize.sh APP_TITLE
 Hidden=false
 Name=window_control
 NoDisplay=true
